@@ -7,7 +7,7 @@
 ## Links
 
 - **Live application:** https://energy-mix-frontend-0ru0.onrender.com/
-- **Frontend repository:** https://github.com/kacpersmaga/energy-mix-frontend
+- **Frontend:** [`../frontend`](../frontend)
 
 ## Design decisions
 

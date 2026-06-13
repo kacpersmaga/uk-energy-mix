@@ -7,7 +7,7 @@ React 19 + TypeScript + Tailwind. Three pie charts for the 3-day generation mix,
 ## Links
 
 - **Live application:** https://energy-mix-frontend-0ru0.onrender.com/
-- **Backend repository:** https://github.com/kacpersmaga/uk-energy-api
+- **Backend:** [`../backend`](../backend)
 
 ## Design decisions
 
